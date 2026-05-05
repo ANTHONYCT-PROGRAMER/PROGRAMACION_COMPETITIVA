@@ -201,7 +201,7 @@ sorting-comparator/
 ---
 
 ## Autor
-
-Trabajo práctico — **Estructura de Datos y Algoritmos**  
+Estudiante - ANTHONY CT
+Trabajo práctico — **Programación Competitiva**  
 VI Semestre — Escuela Profesional de Ingeniería de Sistemas  
 Universidad Nacional del Altiplano — Puno, Perú
